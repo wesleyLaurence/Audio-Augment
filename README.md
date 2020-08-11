@@ -1,5 +1,6 @@
 # Audio-Augment
 #### Audio data augmentation tool for machine learning projects
+        pip install AudioAugment
 This library augments audio training datasets by transforming provided WAV files in 10 different ways:
         
   1. Waveform Inversion

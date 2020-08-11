@@ -11,7 +11,7 @@ This library augments audio training datasets by transforming provided WAV files
   7. Time shift (slow, fast)
    
 ## Directory Setup
-Create two folders in your current working directory, one called `unprocessed` and another called `processed`.
+Create a folder in your working directory called `WAV`. Then create two subfolders inside WAV, one called `unprocessed` and another called `processed`.
 Place all audio samples that you want to transform in the unprocessed folder (must be WAV format). 
 Run this method and it will transform all audio files in your unprocessed folder, 
 and save the new set of augmented samples in the processed folder.

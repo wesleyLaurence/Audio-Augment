@@ -1,5 +1,4 @@
 # Audio-Augment
-`pip install AudioAugment`
 #### Audio data augmentation tool for machine learning projects
 This library augments audio training datasets by transforming provided WAV files in 10 different ways:
         
@@ -16,6 +15,9 @@ Create two folders in your current working directory, one called `unprocessed` a
 Place all audio samples that you want to transform in the unprocessed folder (must be WAV format). 
 Run this method and it will transform all audio files in your unprocessed folder, 
 and save the new set of augmented samples in the processed folder.
+
+## Installation
+`pip install AudioAugment`
 
 ## Requirements
 - numpy

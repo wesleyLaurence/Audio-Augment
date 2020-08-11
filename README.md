@@ -1,5 +1,5 @@
 # Audio-Augment
-#### Audio data augmentation tool for machine learning projects
+### Audio data augmentation tool for machine learning projects
 This library augments audio training datasets by transforming provided WAV files in 10 different ways:
         
   1. Waveform Inversion

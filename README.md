@@ -26,4 +26,4 @@ and save the new set of augmented samples in the processed folder.
 - soundfile
 - librosa
 
-        For questions about this library, email wesleylaurencetech@gmail.com
+<b>For questions about this library, email wesleylaurencetech@gmail.com</b>
